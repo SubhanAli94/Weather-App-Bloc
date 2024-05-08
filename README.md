@@ -11,6 +11,7 @@ A Flutter project to learn the Bloc architecture. This app fetch the weather dat
   * flutter_dotenv: ^5.1.0
 
 ## Screenshot
+![Screenshot]\(https://github.com/SubhanAli94/weather_app_bloc/blob/main/screenshots/screenshot.jpeg) 
 
-![Image]([https://github.com/SubhanAli94/weather_app_bloc/blob/main/screenshots/screenshot.jpeg]))
+
 
