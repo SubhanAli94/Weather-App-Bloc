@@ -101,9 +101,12 @@ class _HomeScreenState extends State<HomeScreen> {
                               fontSize: 16,
                               fontWeight: FontWeight.w500),
                         ),
-                        const Text(
-                          'Good Morning',
-                          style: TextStyle(
+                        Text(
+                          DateFormat()
+                              .add_jm()
+                              .format(state.weather.date!)
+                              .toString(),
+                          style: const TextStyle(
                               color: Colors.white,
                               fontSize: 36,
                               fontWeight: FontWeight.w700,
