@@ -12,8 +12,9 @@ A Flutter project to learn the Bloc architecture. This app fetch the weather dat
 
 ## Screenshot
 ![Image](https://github.com/SubhanAli94/weather_app_bloc/blob/main/screenshots/screenshot.jpeg)
+
 <p align="center">
-  <img width="460" height="1000" src="[https://picsum.photos/460/300](https://github.com/SubhanAli94/weather_app_bloc/blob/main/screenshots/screenshot.jpeg)">
+  <img src="https://github.com/SubhanAli94/weather_app_bloc/blob/main/screenshots/screenshot.jpeg" alt="Sublime's custom image"/>
 </p>
 
 
