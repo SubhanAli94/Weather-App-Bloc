@@ -12,4 +12,4 @@ A Flutter project to learn the Bloc architecture. This app fetch the weather dat
 
 ## Screenshot
 
-![Alt Text](https://raw.github.com/{SubhanAli94}/{weather_app_bloc}/{main}/{})
+![Image](screenshot.jpeg)
